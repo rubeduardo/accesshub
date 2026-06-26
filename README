@@ -1,0 +1,55 @@
+# AccessHub
+
+> Open-source platform for accessibility, inclusion and nonprofit organization management.
+
+AccessHub is an open-source platform designed to help nonprofit organizations, disability associations, and community initiatives modernize the way they manage members, digital accessibility, and inclusive services.
+
+The project was born from a real-world need observed in a local disability association that still relies on paper records and physical membership cards. Instead of creating a solution for a single organization, AccessHub aims to become a reusable platform that any nonprofit can deploy, customize and improve.
+
+## Why?
+
+Many disability organizations operate with limited budgets and outdated tools.
+
+Common challenges include:
+
+* Paper-based member records
+* Physical membership cards without online validation
+* No centralized document management
+* Limited accessibility features
+* Difficult reporting and statistics
+* Lack of digital self-service for members
+
+AccessHub seeks to solve these problems through an open-source, community-driven platform.
+
+## Planned Features
+
+* Member management
+* Digital membership cards
+* QR Code validation
+* Public card verification
+* Volunteer management
+* Event management
+* Accessible dashboard
+* AI-powered assistant
+* Reports and analytics
+* Multi-organization support
+
+## Accessibility First
+
+Accessibility is not an optional feature.
+
+The platform is being designed following accessibility best practices from the beginning.
+
+## Open Source
+
+We welcome contributors from all backgrounds.
+
+Whether you are a developer, designer, accessibility specialist, translator or nonprofit volunteer, your contribution is welcome.
+
+## Roadmap
+
+See ROADMAP.md.
+
+## License
+
+MIT License.
